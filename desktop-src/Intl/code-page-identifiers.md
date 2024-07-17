@@ -3,14 +3,14 @@ description: The following table defines the available code page identifiers.
 ms.assetid: 5d6fc86a-f205-4d14-bb7c-ecd71682e0fe
 title: Code Page Identifiers
 ms.topic: article
-ms.date: 05/31/2018
+ms.date: 05/31/2024
 ---
 
 # Code Page Identifiers
 
 The following table defines the available code page identifiers.
 
-> [!Note]  
+> [Note]  
 > ANSI code pages can be different on different computers, or can be changed for a single computer, leading to data corruption. For the most consistent results, applications should use Unicode, such as UTF-8 or UTF-16, instead of a specific code page.
 
  
@@ -158,7 +158,7 @@ The following table defines the available code page identifiers.
 | 51949      | euc-kr                  | EUC Korean                                                                                          |
 | 51950      |                         | EUC Traditional Chinese                                                                             |
 | 52936      | hz-gb-2312              | HZ-GB2312 Simplified Chinese; Chinese Simplified (HZ)                                               |
-| 54936      | GB18030                 | **Windows XP and later:** GB18030 Simplified Chinese (4 byte); Chinese Simplified (GB18030)         |
+| 54936      | GB18030                 | **Windows XP and later ** GB18030 Simplified Chinese (4 byte); Chinese Simplified (GB18030)         |
 | 57002      | x-iscii-de              | ISCII Devanagari                                                                                    |
 | 57003      | x-iscii-be              | ISCII Bangla                                                                                        |
 | 57004      | x-iscii-ta              | ISCII Tamil                                                                                         |
